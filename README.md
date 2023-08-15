@@ -1,6 +1,6 @@
 ### Hi there 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanveer19)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanveer19)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanveer19)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tanveer19/tanveer19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
