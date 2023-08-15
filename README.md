@@ -1,6 +1,8 @@
 ### Hi there 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanveer19)](https://git.io/streak-stats)
-https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif
+  <img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)">
+
 <!--
 **tanveer19/tanveer19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
