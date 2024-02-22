@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...tanveer.xyz
+- 🔭 I’m currently working on ...tanveer.xyz . making it awesome
 - 🌱 I’m currently learning ... JS, React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
