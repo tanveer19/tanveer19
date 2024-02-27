@@ -7,11 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...tanveer.xyz . making it awesome
-- 🌱 I’m currently learning ... CSS, JS, React
+- 🔭 I’m currently working on ...tanveer.xyz
+- 🌱 I’m currently learning ... JS, React
 - 👯 I’m looking to collaborate on ... exciting projects 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ... thjbd19@gmail.com
+- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
