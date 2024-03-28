@@ -5,7 +5,7 @@
 <!--
 **tanveer19/tanveer19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Front-end Developer and I have 2 months internship experience as a MERN stack dev.
+I have 2 months internship experience as a MERN stack dev.
 - 🔭 I’m currently working on adding sections of https://tanveer.xyz
 - 🌱 I’m currently learning ... JS, React
 - 👯 I’m looking to collaborate on ... exciting projects 
