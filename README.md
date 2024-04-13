@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Tanveer</h1>
 <h3 align="left">A passionate Frontend Developer</h3>
-
+I am on vacation now
 <h3 align="left">Github Streak:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanveer19)](https://git.io/streak-stats)
