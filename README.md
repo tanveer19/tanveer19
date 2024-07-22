@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
-<h3 align="left">🔥 Frontend Developer</h3>
+<h3 align="left">🔥 Looking for Frontend Developer Roles at an awesome place</h3>
 
 <h3 align="left">🔥 Github Streak:</h3>
 
@@ -8,7 +8,7 @@
 <h3 align="left">🔥 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanveer-hossain-jony/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanveer-hossain-jony/" height="30" width="40" /></a>
- <a href="https://twitter.com/thjbd19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thjbd19" height="30" width="40" /></a>
+<a href="https://twitter.com/thjbd19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thjbd19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanveer19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanveer19" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1571017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:1571017" height="30" width="40" /></a>
 </p>
@@ -33,5 +33,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
