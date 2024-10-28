@@ -1,6 +1,6 @@
-K<h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
+<h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
 
-<h3 align="left">🔥 Looking for a Frontend Developer Role </h3>
+<h3 align="left">🔥 Looking for a Frontend Developer Job </h3>
 
 <h3 align="left">🔥 Github Streak:</h3>
 
