@@ -4,7 +4,7 @@
 
 <h3 align="left">🔥 Github Streak:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanveer19)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ashen-chi.vercel.app/?user=tanveer19)](https://git.io/streak-stats)
 
 <h3 align="left">🔥 Connect with me:</h3>
 <p align="left">
