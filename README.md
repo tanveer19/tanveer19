@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
 
-<h3 align="left">🔥 Looking for a Frontend Developer Job </h3>
-
 <h3 align="left">🔥 Github Streak:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats-ashen-chi.vercel.app/?user=tanveer19)](https://git.io/streak-stats)
