@@ -1,5 +1,15 @@
 <h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
 
+## About Me
+
+I'm a passionate Frontend developer with a love for coding and learning new technologies. I'm always eager to take on new challenges.
+
+- 💻 Currently working on web development projects.
+- 🌱 Learning more about JS and React.
+- 💬 Ask me about anything related to programming, I'm happy to help!
+- 📫 How to reach me: [thjbd19@gmail.com](mailto:thjbd19@gmail.com)
+- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+
 <h3 align="left">🔥 Github Streak:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats-ashen-chi.vercel.app/?user=tanveer19)](https://git.io/streak-stats)
