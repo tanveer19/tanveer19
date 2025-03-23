@@ -6,7 +6,6 @@ I'm a passionate Frontend developer with a love for coding and learning new tech
 
 - 💻 Currently working on web development projects.
 - 🌱 Learning more about JS and React.
-- 💬 Ask me about anything related to programming, I'm happy to help!
 - 📫 How to reach me: [thjbd19@gmail.com](mailto:thjbd19@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
