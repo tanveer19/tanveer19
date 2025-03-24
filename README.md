@@ -6,7 +6,6 @@ I'm a passionate Frontend developer with a love for coding and learning new tech
 
 - 💻 Currently working on web development projects.
 - 🌱 Learning more about JS and React.
-- 📫 How to reach me: [thjbd19@gmail.com](mailto:thjbd19@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 <h3 align="left">🔥 Github Streak:</h3>
