@@ -5,10 +5,10 @@
 I'm a passionate Frontend developer with a love for coding and learning new technologies. I'm always eager to take on new challenges.
 
 - 💻 Currently working on web development projects.
-- 🌱 Learning more about JS and React.
+- 🌱 Learning more about JavaScript, TypeScript, React, PostgreSQL
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
-<h3 align="left">🔥 Github Streak:</h3>
+<h3 align="left">🔥 Github Streak (which doesn't matter):</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats-ashen-chi.vercel.app/?user=tanveer19)](https://git.io/streak-stats)
 
