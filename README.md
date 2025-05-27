@@ -4,8 +4,8 @@
 
 I'm a passionate Frontend developer with a love for coding and learning new technologies. I'm always eager to take on new challenges.
 
-- 💻 Currently working on web development projects.
-- 🌱 Learning more about JavaScript, TypeScript, React, PostgreSQL
+- 💻 Experienced with JavaScript, NodeJS, MongoDB, React, TailwindCSS
+- 🌱 Learning TypeScript, PostgreSQL
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 <h3 align="left">🔥 Github Streak:</h3>
