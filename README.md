@@ -4,9 +4,11 @@
 
 I'm a passionate Frontend developer with a love for coding and learning new technologies. I'm always eager to take on new challenges.
 
-- 💻 Experienced with JavaScript, NodeJS, MongoDB, React, TailwindCSS
-- 🌱 Learning TypeScript, PostgreSQL
-- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+ 💻 Skills:
+
+  - 🔹 Frontend: React, JavaScript  
+  - 🔹 Backend: Node.js, Express  
+  - 🔸 Databases: MongoDB, PostgreSQL  
 
 <h3 align="left">🔥 Github Streak:</h3>
 
