@@ -1,8 +1,9 @@
-<h1 align="left">Hi, I'm Tanveer Hossain Jony</h1>
+# 👋 Hi, I'm Tanveer Hossain Jony  
+🎯 Frontend Developer | JavaScript & React Enthusiast | Lifelong Learner
 
 ## About Me
 
-I'm a passionate Frontend developer with a love for coding and learning new technologies. I'm always eager to take on new challenges.
+I'm a self-driven Frontend Developer with hands-on experience building dynamic, responsive web applications using React, JavaScript, and Tailwind CSS. I enjoy solving problems, exploring new technologies, and crafting beautiful user interfaces.
 
  💻 Skills:
 
