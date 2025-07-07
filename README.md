@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tanveer Hossain Jony  
-🎯 Frontend Developer | JavaScript & React Enthusiast | Lifelong Learner
+🎯 Full-Stack Developer | JavaScript & React Enthusiast | Lifelong Learner
 
 ## About Me
 
-I'm a self-driven Frontend Developer with hands-on experience building dynamic, responsive web applications using React, JavaScript, and Tailwind CSS. I enjoy solving problems, exploring new technologies, and crafting beautiful user interfaces.
+I'm a self-driven Full-Stack Developer with hands-on experience building dynamic, responsive web applications using React, JavaScript, Tailwind CSS, MongoDB. I enjoy solving problems, exploring new technologies, and crafting beautiful user interfaces.
 
  💻 Skills:
 
