@@ -7,7 +7,7 @@ I'm a self-driven Full-Stack Developer with hands-on experience building dynamic
 
  💻 Skills:
 
-  - 🔹 Frontend:  JavaScript, React
+  - 🔹 Frontend:  JavaScript, React, Next.js
   - 🔹 Backend:   Node.js, Express  
   - 🔸 Databases: MongoDB, PostgreSQL  
 
