@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tanveer Hossain Jony  
-🎯 Full-Stack Developer | JavaScript & React
+🎯  JavaScript & React
 
 ## About Me
 
