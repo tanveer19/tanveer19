@@ -14,11 +14,9 @@ I specialize in:
 
 ✔ Writing clean, maintainable code using modern JavaScript & TypeScript  
 
-Currently focused on becoming a professional developer in 2026 by shipping projects consistently and improving system design skills.
-
  💻 Skills:
 
-  🔹 Frontend:  JavaScript, React, Next.js, TypeScript
+  🔹 Frontend:  JavaScript, React, Next.js, TypeScript, Tailwind
   
   🔹 Backend:   Node.js, Express  
   
