@@ -16,7 +16,7 @@ I specialize in:
 
  💻 Skills:
 
-  🔹 Frontend:  JavaScript, React, Next.js, TypeScript, Tailwind
+  🔹 Frontend:  JavaScript, React, Next.js, TypeScript, Tailwind, WordPress (Theme Customization, Elementor)
   
   🔹 Backend:   Node.js, Express  
   
