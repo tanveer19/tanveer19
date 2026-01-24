@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Tanveer Hossain Jony  
 🎯 Full-Stack JavaScript Developer | React • Next.js • Node.js
 
-🚀 Building scalable web apps with clean UI & real-world business logic
-
-
 ## About Me
 
 I'm a self-driven Full-Stack JavaScript Developer with hands-on experience building real-world web applications using React, Next.js, Node.js, PostgreSQL and MongoDB.
