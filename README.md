@@ -15,7 +15,7 @@ I specialize in:
 
   🔹 Frontend:  JavaScript, React, Next.js, TypeScript, Tailwind, WordPress (Theme Customization, Elementor)
   
-  🔹 Backend:   Node.js, Express  
+  🔹 Backend:   Node.js, Express, PHP  
   
   🔸 Databases: MongoDB, PostgreSQL  
 
