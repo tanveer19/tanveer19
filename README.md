@@ -15,8 +15,6 @@ I focus on writing clean, maintainable code and turning ideas into responsive, p
 ✔ Converting Figma / ideas into polished, responsive UI  
 ✔ Building REST APIs with secure authentication  
 ✔ Developing dynamic CMS websites using WordPress  
-✔ Writing scalable backend logic with Node.js & Express  
-
 ---
 
 ## 💻 Skills
