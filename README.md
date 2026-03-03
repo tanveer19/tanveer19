@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanveer Hossain Jony  
 🎯 Full-Stack Developer | React • Next.js • Node.js • WordPress  
 
-currently working at Alphabyte Technologies. 
+currently building php and WordPress websites at Alphabyte Technology Ltd. 
 
 🚀 I build scalable web applications and modern business websites with clean UI and practical backend logic.
 
@@ -38,7 +38,6 @@ Git, GitHub, pnpm, Firebase, AWS (basic)
 ## 🔥 GitHub Activity
 
 Consistent daily coding focused on:
-- Backend API development
 - React & Next.js applications
 - TypeScript best practices
 - Real-world project building
