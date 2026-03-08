@@ -13,10 +13,17 @@ I'm a self-driven Full-Stack Developer with hands-on experience building real-wo
 
 I focus on writing clean, maintainable code and turning ideas into responsive, production-ready products.
 
-### What I Specialize In:
-✔ Converting Figma / ideas into polished, responsive UI  
-✔ Building REST APIs with secure authentication  
-✔ Developing dynamic CMS websites using WordPress  
+### What I Specialize In
+
+✔ Building responsive and user-friendly interfaces using React, Next.js, and Tailwind CSS  
+
+✔ Developing RESTful APIs and backend services with Node.js and Express  
+
+✔ Creating dynamic CMS websites with WordPress, including theme customization and Elementor  
+
+✔ Designing and integrating databases using MongoDB and PostgreSQL  
+
+✔ Writing clean, maintainable, and scalable code using modern JavaScript and TypeScript
 ---
 
 ## 💻 Skills
