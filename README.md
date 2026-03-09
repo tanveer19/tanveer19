@@ -23,7 +23,8 @@ I focus on writing clean, maintainable code and turning ideas into responsive, p
 
 ✔ Designing and integrating databases using MongoDB and PostgreSQL  
 
-✔ Writing clean, maintainable, and scalable code using modern JavaScript and TypeScript
+✔ Writing clean, maintainable code using modern JavaScript and TypeScript
+
 ---
 
 ## 💻 Skills
