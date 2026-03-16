@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanveer Hossain Jony  
+# Hi, I'm Tanveer Hossain Jony  
 🎯 Full-Stack Developer | React • Next.js • Node.js • WordPress  
 
 currently building php and WordPress websites at Alphabyte Technology Ltd. 
@@ -7,7 +7,7 @@ currently building php and WordPress websites at Alphabyte Technology Ltd.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a self-driven Full-Stack Developer with hands-on experience building real-world web applications using **React, Next.js, Node.js, PostgreSQL, MongoDB, and WordPress**.
 
