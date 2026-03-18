@@ -45,11 +45,6 @@ Git, GitHub, pnpm, Firebase, AWS (basic)
 
 ## 🔥 GitHub Activity
 
-Consistent daily coding focused on:
-- React & Next.js applications
-- TypeScript best practices
-- Real-world project building
-
 [![GitHub Streak](https://github-readme-streak-stats-ashen-chi.vercel.app/?user=tanveer19)](https://git.io/streak-stats)
 
 ---
