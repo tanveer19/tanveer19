@@ -33,7 +33,7 @@ I focus on writing clean, maintainable code and turning ideas into responsive, p
 JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS, WordPress (Page builders, Theme Customization)
 
 ### 🔹 Backend
-Node.js, Express, PHP (WordPress), REST API, JWT Authentication
+Node.js, Express, PHP (WordPress), REST API
 
 ### 🔸 Databases
 MongoDB, PostgreSQL, MySQL (WordPress)
